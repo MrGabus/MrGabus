@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-siodoni/)](https://www.linkedin.com/in/gabriel-siodoni/)
 
 
-- 👀 I’m currently learning (HTML, CSS3, JavaScript, PHP, MySQL, Java.
+- 👀 I’m currently learning HTML, CSS3, JavaScript, MySQL, Java , Springboot, Kotlin
 
 
 
